@@ -1,6 +1,6 @@
 <?php
 
-namespace Agus\Belajar;
+namespace SetiawanD000\Belajar;
 
 class Customer
 {
